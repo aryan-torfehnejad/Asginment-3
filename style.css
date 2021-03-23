@@ -1,15 +1,13 @@
-       
-       .title {
-			background-color: yellow;
-			color: lightgreen;
-			padding: 20px;
-      text-align:center;
-		}
-    
-    .text {
-      text-align:center;
-      border:3px solid green
-    }
+.title {
+    background-color: yellow;
+    color: lightgreen;
+	  padding: 20px;
+    text-align: center;
+}
+.text {
+  text-align: center;
+  border: 3px solid green;
+  }
     .para {
       text-align:center;
       color:orange;
