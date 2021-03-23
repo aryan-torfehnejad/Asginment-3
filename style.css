@@ -1,22 +1,25 @@
 .title {
-    background-color: yellow;
-    color: lightgreen;
-	  padding: 20px;
+  background-color: yellow;
+  color: lightgreen;
+	padding: 20px;
     text-align: center;
 }
+
 .text {
   text-align: center;
   border: 3px solid green;
-  }
-    .para {
-      text-align:center;
-      color:orange;
-      font-size:120%;
-      font-family:monospace;
+}
+  
+  .para {
+  text-align: center;
+  color: orange;
+  font-size: 120%;
+  font-family:monospace;
     }
+   
     .picture {
-      width:50%;
-      hieght:50%;
-      padding:10px;
-      float:center;
-    }
+      width: 50%;
+      height: 50%;
+      padding: 10px;
+      float: center;
+}
